@@ -1,0 +1,3 @@
+Brief Approach Explaination:
+My idea of implementing the symbol table was to use a hashmap, and add the password and time it took to get it. I could then search the hashmap and get the value.
+To set the time I used the Nano() call, however, I couldn't get my symbol table to work completely, so I commented out the lines of code that attempted to show the time.
